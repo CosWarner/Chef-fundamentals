@@ -3,3 +3,5 @@ I am the git test file.
 Test with me so you know.
 
 Adding a new line.
+
+Testing commit.
